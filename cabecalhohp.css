@@ -1,0 +1,78 @@
+#cabecalho {
+	height: 160px;
+	margin-top: 24px;
+	margin-left: 40px; 
+	margin-right: 40px;
+}
+#logo {
+	height: 79px; 
+	width: 126px; 
+	text-align: center; 
+	border-radius:20px;
+	float: left;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+#login{
+	height: 30px;
+	width: 170px;
+	float: right;
+	border-radius: 0px 5px 0px 40px;
+	text-align: center;
+	padding: 5px;
+	color: white;
+	text-decoration:none;
+}
+#login a {
+	text-decoration: none;
+	color: white;
+}
+#botao {
+	background:url(imgs/lupa.png);
+	margin-top: 4px;
+	margin-right: 5px;
+	height: 25px;
+	width: 25px;
+	border-radius: 20px;
+}
+#menu { 
+    border: none;
+    list-style:none;
+    padding:0px;
+    margin:0px;
+	height:40px;
+	font-size: 22px;
+}
+#menu li { 
+    background-color:white;
+    width:180px;
+    height:40px;
+    float: left;
+	margin-right: 15px;
+}
+#menu a { 
+    text-decoration: none;
+    float: left;
+    width:192px;
+    height:40px;
+    text-align: center;
+}
+#menu a:link{
+    background-color: white;
+    color: black;
+}
+#menu a:hover{
+    color: white;
+    background-color: #5AA9E6;
+}
+#menu a:active{
+    background-color: rgb(29, 88, 197);
+    color: white;
+}
+#areamenu{
+	float: left;
+	border: none;
+}
+#menu a:visited{
+	color: black;
+}

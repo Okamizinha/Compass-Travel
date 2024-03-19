@@ -1,0 +1,70 @@
+#conteudo {
+	margin-top: 35px; 
+	height: 575px;
+	border: 1px solid #7FC8F8;
+	margin-left: 40px; 
+	margin-right: 40px;
+	background-color: #7FC8F8;
+}
+#cruzeiro a:visited {
+	color: white;
+	background-color: #5AA9E6;
+}
+a.descricoes {
+	text-align: center;
+	display: block;
+	height: 100%;
+	width: 100%;
+	text-decoration: none;
+	color: black;
+}
+#imagem{
+	background: url(../imgs/cruzeiro-1.png)  no-repeat center center;
+
+}
+
+#imagem1{
+	background: url(../imgs/cruzeiro-2.png)  no-repeat center center;
+}
+#imagem2{
+	background: url(../imgs/cruzeiro-3.png)  no-repeat center center;
+}
+
+#imagem3{
+	background: url(../imgs/cruzeiro-4.png)  no-repeat center center;
+}
+
+.caixa {
+	width:250px;
+	height:330px;
+	border:2px solid black;
+	margin:10px;
+	float:left;
+	text-align:left;
+	margin-top: 14px;
+}
+
+.descricoes {
+	text-align:center;
+	border:2px solid black; 
+	width:250px;
+	height:100px ;
+	float: left;
+	margin-left: 20px;
+	margin-top: 14px;
+}
+
+#descricao1 {
+	width: 230px;
+	clear: both;
+}
+#descricao3{
+	margin-left: 29px;
+}
+
+#descricao4{
+	margin-left: 29px;
+}
+
+	
+	

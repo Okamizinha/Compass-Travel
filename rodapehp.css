@@ -1,0 +1,42 @@
+.icons {
+	border: hidden;
+	height: 30px;
+	width: 30px;
+	float: left;
+	margin-top: 12px;
+}
+#rodape {
+	margin-top: 29px; 
+	height: 255px; 
+	margin-bottom: 50px;
+	margin-left: 40px; 
+	margin-right: 40px;
+}
+#redesSociais {
+	border: hidden;
+	width: 100%;
+	height: 150px;
+	text-align: center;
+	color: white;
+}
+#icones1 {
+	border: none;
+	width: 100%;
+	height: 60px;
+}
+#facebook {
+	margin-left: 498px;
+	background:url(../imgs/facebook.png);
+}
+#instagram {
+	margin-left: 17px;
+	background:url(../imgs/instagram.png);
+}
+#twitter {
+	margin-left: 17px;
+	background:url(../imgs/twitter.png);
+}
+#youtube {
+	margin-left: 17px;
+	background:url(../imgs/youtube.png)
+}

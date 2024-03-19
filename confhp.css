@@ -1,0 +1,33 @@
+.font {
+	font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+}
+.bordaPadrao {
+	border: 1px solid #7FC8F8;
+}
+.bgcPadrao {
+	background-color: #7FC8F8;
+}
+.bgcSec {
+	background-color: #5AA9E6;
+}
+body {
+	border: none;
+	width: 1260px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+	background-color: #1e212b;
+}
+div {
+	border: 1px solid #1e212b;
+	background-color: white;
+	border-radius: 10px;
+}
+a.descricao {
+	text-align: center;
+	display: block;
+	height: 100%;
+	width: 100%;
+	text-decoration: none;
+	color: black;
+}

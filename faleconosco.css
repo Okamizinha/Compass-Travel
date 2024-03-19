@@ -1,0 +1,15 @@
+#conteudo {
+	margin-top: 35px; 
+	height: 400px;
+	margin-left: 40px; 
+	margin-right: 40px;
+	text-align: center;
+	letter-spacing: 1px;
+}
+#mensagens {
+	margin-left: 50px;
+}
+#faleconosco a:visited {
+	color: white;
+	background-color: #5AA9E6;
+}
